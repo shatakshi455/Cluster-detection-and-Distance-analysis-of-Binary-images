@@ -1,4 +1,4 @@
-# 🧠 Streamlit K-Means Clustering on Binary Images
+# 🧠 K-Means Clustering on Binary Images
 
 This is a simple Streamlit app that performs **K-Means clustering** on the **white (foreground) pixels** of a binary image. It allows users to upload an image, binarizes it, finds the optimal number of clusters using the **elbow method**, and visualizes the centroids on the image.
 
