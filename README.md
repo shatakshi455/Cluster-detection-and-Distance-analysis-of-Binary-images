@@ -16,8 +16,8 @@ This is a simple Streamlit app that performs **K-Means clustering** on the **whi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/streamlit-kmeans-clustering.git
-cd streamlit-kmeans-clustering
+git clone https://github.com/your-username/kmeans-clustering.git
+cd kmeans-clustering
 ```
 ### 2. Install Dependencies
 ```bash
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 ### 3. Run the App
 ```bash
-streamlit run streamlit_kmeans.py
+streamlit run kmeans.py
 ```
 Application opens in your browser.
 
