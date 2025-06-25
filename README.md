@@ -36,6 +36,7 @@ Works on .png, .jpg, .jpeg
 
 Threshold for binarization is fixed at 128 for simplicity.
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Shatakshi Singh
+
 Built with ❤️ using Streamlit, OpenCV, scikit-learn, and matplotlib.
