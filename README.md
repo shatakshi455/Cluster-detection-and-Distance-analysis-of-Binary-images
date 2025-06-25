@@ -31,7 +31,9 @@ Application opens in your browser.
 
 ## 📝 Notes
 Best used on clean grayscale or black-and-white sketches, scans, or handwritten inputs.
+
 Works on .png, .jpg, .jpeg
+
 Threshold for binarization is fixed at 128 for simplicity.
 
 🧑‍💻 Author
