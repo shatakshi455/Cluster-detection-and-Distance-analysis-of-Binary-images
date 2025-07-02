@@ -16,7 +16,7 @@ This is a simple Streamlit app that performs **K-Means clustering** on the **whi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/kmeans-clustering.git
+git clone https://github.com/shatakshi455/kmeans-clustering.git
 cd kmeans-clustering
 ```
 ### 2. Install Dependencies
